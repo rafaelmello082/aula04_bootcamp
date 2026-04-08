@@ -1,0 +1,3 @@
+nome, quantidade, preco, disponibilidade
+Sapato, 39, 10.38, True
+Televisao, 10, 70.38, False

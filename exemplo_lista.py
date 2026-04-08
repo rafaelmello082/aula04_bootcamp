@@ -1,0 +1,19 @@
+produto: str = 'sapato'
+produto_2: str = 'camiseta'
+produto_3: str = 'videogame'
+
+produtos: list = []
+
+produtos.append(produto)
+produtos.append(produto_2)
+produtos.append(produto_3)
+produtos.pop()
+produtos.pop()
+
+print(produtos)
+
+numeros = []
+numeros.extend(range(0,5))
+print(numeros)
+numeros.extend(range(5,11))
+print(numeros)
